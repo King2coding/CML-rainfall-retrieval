@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the publication most relevant to the CML rainfall workflow used."
+title: "Commercial microwave-link rainfall retrieval"
+type: software
+authors:
+  - family-names: "Kumah"
+    given-names: "Kwabena Kingsley"
+    orcid: "https://orcid.org/0000-0001-6865-0665"
+repository-code: "https://github.com/King2coding/CML-rainfall-retrieval"
+preferred-citation:
+  type: article
+  title: "Near real-time estimation of high spatiotemporal resolution rainfall from cloud top properties of the MSG satellite and commercial microwave link rainfall intensities"
+  authors:
+    - family-names: "Kumah"
+      given-names: "Kwabena Kingsley"
+    - family-names: "Maathuis"
+      given-names: "Ben H. P."
+    - family-names: "Hoedjes"
+      given-names: "Joost C. B."
+    - family-names: "Su"
+      given-names: "Zhongbo"
+  journal: "Atmospheric Research"
+  volume: 279
+  year: 2022
+  doi: "10.1016/j.atmosres.2022.106357"
