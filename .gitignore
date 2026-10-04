@@ -1,4 +1,5 @@
 .DS_Store
+.vscode/
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -20,6 +21,7 @@ models/
 *.nc
 *.nc4
 *.dat
+*.csv
 *.parquet
 *.pkl
 *.joblib
